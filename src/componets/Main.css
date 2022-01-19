@@ -1,5 +1,4 @@
 #main {
-    background-color: transparent;
     display: flex;
     justify-content: center;
     align-items: top;
@@ -38,7 +37,7 @@
     margin-top: 30px;
     width: 300px;
     color: white;
-    font-size: 20px;
+    font-size: 18px;
     text-decoration: none;
 }
 
@@ -47,6 +46,7 @@
     border-radius: 50%;
     animation: ani 2s infinite;
     width: 200px;
+    border: 2px solid white;
 }
 
 #name {
@@ -61,21 +61,6 @@
     height: auto;
 }
 
-@keyframes ani {
-    0% {
-        color: rgba(255, 0, 0, 0.253);
-        box-shadow: 6px 6px 5px;
-    }
-    50% {
-        color: rgba(255, 0, 0, 0.253);
-        box-shadow: 0px 0px 0px;
-    }
-    100% {
-        color: rgba(255, 0, 0, 0.253);
-        box-shadow: 6px 6px 5px;
-    }
-}
-
 #ssss {
     display: flex;
     justify-content: center;
@@ -83,29 +68,30 @@
     text-align: center;
 }
 
+#twi {
+    color: blue;
+}
+
 @media only screen and (max-width:768px) {
-    /* #main {
-        background: red;
+    #main {
+        background: rgb(128, 68, 68);
         animation: bac 5s infinite;
     }
     @keyframes bac {
         0% {
-            background-color: red;
+            background-color: rgb(128, 68, 68);
         }
         25% {
-            background-color: yellow;
+            background-color: rgb(84, 109, 33);
         }
         50% {
-            background-color: yellowgreen;
+            background-color: rgb(0, 0, 197);
         }
         75% {
-            background-color: blue;
-        }
-        90% {
             background-color: blueviolet;
         }
         100% {
-            background-color: red;
+            background-color: rgb(128, 68, 68);
         }
-    } */
+    }
 }
