@@ -39,10 +39,10 @@ export default class Maintain extends Component {
                         <a id='box' href="https://www.linkedin.com/in/vijeeth-sankar-2123b1201">
                         LinkedIn <img src={linkedin} alt="" />
                         </a>
-                        <a id='box' className='twi' href="https://twitter.com/Vijeeth_Sankar">
+                        <a id='box' href="https://twitter.com/Vijeeth_Sankar">
                         Twitter <img id="twi" src={twitter} alt="" />
                         </a>
-                        <a id='box' className='twi' href="https://twitter.com/Vijeeth_Sankar">
+                        <a id='box' href="https://wa.link/fa6oc7">
                         Whatsapp <img id="twi" src={whatsapp} alt="" />
                         </a>
                         
