@@ -28,22 +28,22 @@ export default class Maintain extends Component {
                             Let's Connect together
                         </div>
                         <a id='box' href="https://vijeeth143.github.io/updateweb/">
-                        Portable Website <img src={laptop} alt="" />
+                        ✨Portable Website <img src={laptop} alt="" />
                         </a>
                         <a id='box' href="https://instagram.com/vijeeth_sankar?utm_medium=copy_link">
-                        Instagram <img src={instagram} alt="" />
+                        ✨Instagram <img src={instagram} alt="" />
                         </a>
                         <a id='box' href="https://github.com/Vijeeth143">
-                        GitHub <img src={git} alt="" />
+                        ✨GitHub <img src={git} alt="" />
                         </a>
                         <a id='box' href="https://www.linkedin.com/in/vijeeth-sankar-2123b1201">
-                        LinkedIn <img src={linkedin} alt="" />
+                        ✨LinkedIn <img src={linkedin} alt="" />
                         </a>
                         <a id='box' href="https://twitter.com/Vijeeth_Sankar">
-                        Twitter <img id="twi" src={twitter} alt="" />
+                        ✨Twitter <img id="twi" src={twitter} alt="" />
                         </a>
                         <a id='box' href="https://wa.link/fa6oc7">
-                        Whatsapp <img id="twi" src={whatsapp} alt="" />
+                        ✨Whatsapp <img id="twi" src={whatsapp} alt="" />
                         </a>
                         
                     </Row>

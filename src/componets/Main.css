@@ -39,14 +39,16 @@
     color: white;
     font-size: 18px;
     text-decoration: none;
+    box-shadow: 5px 5px 15px black;
 }
 
 #img {
     margin-top: 30px;
     border-radius: 50%;
     animation: ani 2s infinite;
-    width: 200px;
+    width: 170px;
     border: 2px solid white;
+    box-shadow: 10px 10px 15px black;
 }
 
 #name {
