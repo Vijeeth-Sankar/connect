@@ -9,6 +9,7 @@ import instagram from "./icons/instagram.svg"
 import linkedin from "./icons/linkedin.svg"
 import laptop from "./icons/website.png"
 import whatsapp from "./icons/whatsapp.svg"
+import gmail from "./icons/gmail.svg"
 
 export default class Maintain extends Component {
     render() {
@@ -44,6 +45,9 @@ export default class Maintain extends Component {
                         </a>
                         <a id='box' href="https://wa.link/fa6oc7">
                         ✨Whatsapp <img id="twi" src={whatsapp} alt="" />
+                        </a>
+                        <a id='box' href="mailto:thisisvijeeth@gmail.com">
+                        ✨Gmail  <img src={gmail} alt="" />
                         </a>
                         
                     </Row>
